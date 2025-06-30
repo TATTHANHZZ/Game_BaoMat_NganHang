@@ -4,21 +4,10 @@
 
 Một ứng dụng web tương tác được xây dựng bằng **Flask** và **Socket.IO**, game hóa quá trình học tập các nguyên tắc bảo mật cơ bản trong giao dịch: **Bí mật (Confidentiality)**, **Xác thực (Authentication)**, và **Toàn vẹn (Integrity)**.
 
-&lt;p align=&quot;center&quot;&gt;
-  &lt;a href=&quot;#-giới-thiệu&quot;&gt;Giới thiệu&lt;/a&gt; •
-  &lt;a href=&quot;#-tính-năng-nổi-bật&quot;&gt;Tính năng&lt;/a&gt; •
-  &lt;a href=&quot;#-demo--hình-ảnh&quot;&gt;Demo&lt;/a&gt; •
-  &lt;a href=&quot;#-công-nghệ-sử-dụng&quot;&gt;Công nghệ&lt;/a&gt; •
-  &lt;a href=&quot;#-cài-đặt--chạy-dự-án&quot;&gt;Cài đặt&lt;/a&gt; •
-  &lt;a href=&quot;#-đội-ngũ-phát-triển&quot;&gt;Đội ngũ&lt;/a&gt;
-&lt;/p&gt;
-
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-v4-010101?style=for-the-badge&logo=socketdotio)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-&lt;/div&gt;
 
 -----
 
