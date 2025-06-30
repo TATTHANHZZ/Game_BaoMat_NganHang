@@ -1,4 +1,3 @@
-&lt;div align=&quot;center&quot;&gt;
 # **Game_BaoMat_NganHang**
 
 ### *Học An Toàn Thông Tin Qua Trải Nghiệm Mô Phỏng Giao Dịch Ngân Hàng*
@@ -9,8 +8,6 @@ Một ứng dụng web tương tác được xây dựng bằng **Flask** và **
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-v4-010101?style=for-the-badge&logo=socketdotio)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-&lt;/div&gt;
 
 -----
 
