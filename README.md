@@ -1,3 +1,12 @@
+&lt;div align=&quot;center&quot;&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;a href=&quot;#-giới-thiệu&quot;&gt;Giới thiệu&lt;/a&gt; •
+  &lt;a href=&quot;#-tính-năng-nổi-bật&quot;&gt;Tính năng&lt;/a&gt; •
+  &lt;a href=&quot;#-demo--hình-ảnh&quot;&gt;Demo&lt;/a&gt; •
+  &lt;a href=&quot;#-công-nghệ-sử-dụng&quot;&gt;Công nghệ&lt;/a&gt; •
+  &lt;a href=&quot;#-cài-đặt--chạy-dự-án&quot;&gt;Cài đặt&lt;/a&gt; •
+  &lt;a href=&quot;#-đội-ngũ-phát-triển&quot;&gt;Đội ngũ&lt;/a&gt;
+&lt;/p&gt;
 # **Game_BaoMat_NganHang**
 
 ### *Học An Toàn Thông Tin Qua Trải Nghiệm Mô Phỏng Giao Dịch Ngân Hàng*
