@@ -34,11 +34,6 @@ Mục tiêu của người chơi Admin là đưa ra quyết định chính xác 
 
 ## 🚀 Demo & Hình ảnh
 
-*(GỢI Ý: Bạn có thể đăng tải ứng dụng lên một dịch vụ miễn phí như PythonAnywhere, Heroku và dán link vào đây)*
-**Link Demo:** `[Chưa có]`
-
-*(GỢI Ý: Thay thế các link `https://placehold.co/...` bằng link ảnh chụp màn hình thực tế của bạn đã được tải lên GitHub hoặc một dịch vụ host ảnh)*
-
 | Giao diện Client (Ngân hàng) | Giao diện Admin (SOC) |
 | :-------------------------: | :-----------------------: |
 | ![Giao diện Client](https://placehold.co/600x400/f1f5f9/0f172a?text=Giao+diện+Client) | ![Giao diện Admin](https://placehold.co/600x400/0f172a/e2e8f0?text=Giao+diện+Admin) |
